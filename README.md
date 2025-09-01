@@ -1,5 +1,7 @@
-https://github.com/Gonzalocl/RTCPeerConnection-example
-https://web.dev/articles/webrtc-infrastructure
-https://antmedia.io/webrtc-signaling-servers-everything-you-need-to-know/
-https://github.com/lesmana/webrtc-without-signaling-server
-https://www.cnblogs.com/Qbit/p/WebRTC_in_the_real_world.html
+- https://github.com/Gonzalocl/RTCPeerConnection-example
+- https://web.dev/articles/webrtc-infrastructure
+- https://antmedia.io/webrtc-signaling-servers-everything-you-need-to-know/
+- https://github.com/lesmana/webrtc-without-signaling-server
+- https://www.cnblogs.com/Qbit/p/WebRTC_in_the_real_world.html
+- [探索 WebRTC 的核心挑戰：五個問題檢驗你的理解深度與應用能力 | by 許恆修 | Heng-Shiou Sheu | Medium](https://r23456999.medium.com/%E6%8E%A2%E7%B4%A2-webrtc-%E7%9A%84%E6%A0%B8%E5%BF%83%E6%8C%91%E6%88%B0-%E4%BA%94%E5%80%8B%E5%95%8F%E9%A1%8C%E6%AA%A2%E9%A9%97%E4%BD%A0%E7%9A%84%E7%90%86%E8%A7%A3%E6%B7%B1%E5%BA%A6%E8%88%87%E6%87%89%E7%94%A8%E8%83%BD%E5%8A%9B-047d00fb288c)
+- [探索 WebRTC：如何實現即時通訊. 透過這篇初學者友善的 WebRTC 教學，學習即時通訊技術！跟隨 Alice… | by 許恆修 | Heng-Shiou Sheu | Medium](https://r23456999.medium.com/%E6%8E%A2%E7%B4%A2-webrtc-%E5%A6%82%E4%BD%95%E5%AF%A6%E7%8F%BE%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A-b2fa73ac91b9)
